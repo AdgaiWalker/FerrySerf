@@ -9,8 +9,8 @@ openclaw https://clawd.org.cn/install/updating
 ## 快速开始
 用iflow规划，openclaw执行
 
+![实操](https://github.com/user-attachments/assets/c1ce0007-478f-4f3c-bf0e-49529249a5b9)
 
-![Uploading 实操.jpg…]()
 
 ## 实测推荐
 **模型***
