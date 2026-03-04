@@ -19,6 +19,7 @@ openclaw https://clawd.org.cn/install/updating
 ![实操](https://github.com/user-attachments/assets/c1ce0007-478f-4f3c-bf0e-49529249a5b9)
 
 **原理**
+
 <img width="300" height="400" alt="串行版架构图" src="https://github.com/user-attachments/assets/9c38afdf-75ca-43c3-8d89-535a68bbfde2" />
 
 ## 实测推荐
