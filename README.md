@@ -13,7 +13,7 @@ iflow cli（不局限编程，可选其他工具） + openclaw
 审美：Gemini、KIMI
 逻辑工程类工作：GPT-5以上、GLM-5、Qorder-3.5
 
-自用token套餐阿里云百炼coding plan
+自用token套餐阿里云百炼coding plan:**https://www.aliyun.com/benefit/ai/aistar?userCode=c3nb1vme&clubBiz=subTask..12408164..10263..**
 
 <img width="300" height="400" alt="串行版架构图" src="https://github.com/user-attachments/assets/9c38afdf-75ca-43c3-8d89-535a68bbfde2" />
 
