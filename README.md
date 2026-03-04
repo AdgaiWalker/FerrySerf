@@ -4,7 +4,7 @@ token均衡分布，整体性减少AI上下文过载消耗token，达到Ferry计
 ## 自用条件
 iflow cli（不局限编程，可选其他工具） + openclaw
 ## 实测推荐
-*模型***
+**模型***
 规划层：claude opus系列或GLM-5
 执行层：
 文字工作：claude opus、KIMI
