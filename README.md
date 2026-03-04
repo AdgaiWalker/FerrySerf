@@ -7,6 +7,7 @@ iflow cli（不局限编程，可选其他工具）：[https://iflow.cn/](https:
 openclaw https://clawd.org.cn/install/updating
 
 ## 快速开始
+下载skill到本地，扔给iflow（agent），然后制定目标（我想）与标准（做什么与不做什么）。
 用iflow规划，openclaw执行
 
 ![实操](https://github.com/user-attachments/assets/c1ce0007-478f-4f3c-bf0e-49529249a5b9)
