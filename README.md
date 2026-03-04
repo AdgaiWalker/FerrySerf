@@ -8,6 +8,7 @@ iflow cli（不局限编程，可选其他工具） + openclaw
 ## 实测推荐
 **模型***
 规划层：claude opus系列或GLM-5
+
 执行层：
 文字工作：claude opus、KIMI
 审美：Gemini、KIMI
