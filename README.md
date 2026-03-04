@@ -22,7 +22,8 @@ openclaw https://clawd.org.cn/install/updating
 <img width="300" height="400" alt="串行版架构图" src="https://github.com/user-attachments/assets/9c38afdf-75ca-43c3-8d89-535a68bbfde2" />
 
 ## 实测推荐
-**模型***
+**模型**
+
 规划层：claude opus系列或GLM-5
 
 执行层：
