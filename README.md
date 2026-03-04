@@ -3,6 +3,8 @@
 token均衡分布，整体性减少AI上下文过载消耗token，达到Ferry计划的可落地性目标的关键一环
 ## 自用条件
 iflow cli（不局限编程，可选其他工具） + openclaw
+## 快速开始
+用iflow规划，openclaw执行
 ## 实测推荐
 **模型***
 规划层：claude opus系列或GLM-5
