@@ -1,6 +1,6 @@
 # 渡奴（串行版）
 基于opencalw、IDE，三层分工架构
-
+token均衡分布，整体性减少AI上下文过载消耗token
 ## 条件
 iflow cli + openclaw
 
