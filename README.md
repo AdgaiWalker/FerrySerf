@@ -33,8 +33,11 @@ openclaw https://clawd.org.cn/install/updating
 逻辑工程类工作：GPT-5以上、GLM-5、Qorder-3.5
 
 **免费**一个月套餐Lite coding plan:
+
 点击**https://www.aliyun.com/benefit/ai/aistar?userCode=c3nb1vme&clubBiz=subTask..12408164..10263..**
+
 注册账号登录
+
 <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/f7648823-da72-40ae-ac1d-efab06e37224" />
 
 <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/d24efa63-ea6f-42be-8ae2-37ba211956a3" />
