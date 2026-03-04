@@ -8,6 +8,8 @@ openclaw https://clawd.org.cn/install/updating
 
 ## 快速开始
 用iflow规划，openclaw执行
+![Uploading b7fbe5f43e88a18b37addb7e97c69fd8.jpg…]()
+
 ## 实测推荐
 **模型***
 规划层：claude opus系列或GLM-5
