@@ -13,6 +13,8 @@ openclaw https://clawd.org.cn/install/updating
 
 ![实操](https://github.com/user-attachments/assets/c1ce0007-478f-4f3c-bf0e-49529249a5b9)
 
+**原理**
+<img width="300" height="400" alt="串行版架构图" src="https://github.com/user-attachments/assets/9c38afdf-75ca-43c3-8d89-535a68bbfde2" />
 
 ## 实测推荐
 **模型***
@@ -27,7 +29,7 @@ openclaw https://clawd.org.cn/install/updating
 
 自用token套餐阿里云百炼coding plan:**https://www.aliyun.com/benefit/ai/aistar?userCode=c3nb1vme&clubBiz=subTask..12408164..10263..**
 
-<img width="300" height="400" alt="串行版架构图" src="https://github.com/user-attachments/assets/9c38afdf-75ca-43c3-8d89-535a68bbfde2" />
+
 
 
 ## 延展
